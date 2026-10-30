@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Kissa Koistinen. I study language technology at the University of Helsinki, as well as Japanese and general linguistics. I'm currently working on a bachelor's degree. In my spare time I like to game, read and write prose. My other passions include miniatures, travelling and watching videos of cats. A dream of mine is to one day publish a game of my own.
+<img src="assets/images/cat.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Niisu Heinikäinen. I study language technology at the University of Helsinki, as well as Japanese and general linguistics. I'm currently working on a bachelor's degree. In my spare time I like to game, read and write prose. My other passions include miniatures, travelling and watching videos of cats. A dream of mine is to one day publish a game of my own.
 
 ## Find me on
 
