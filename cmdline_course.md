@@ -87,9 +87,11 @@ Some of the most important Git commands and their purposes:
 
 
 Example code:  
-```ls *.py &
+```
+ls *.py &
 ps -f
-kill 7539```
+kill 7539
+```
 
 
 The first line of this code starts a background process that lists every file that has the .py extension at the end of its name.  
