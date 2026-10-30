@@ -30,6 +30,10 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 The above is a small project meant as an introduction to using GitHub repositories.
 
+## CV
+
+[Link to my CV](assets/files/Niisu_Heinikäinen_CV.pdf)
+
 ## Misc. 
 
 [Now I'm hungry](https://www.youtube.com/watch?v=OJj2F2kvx2M) 
